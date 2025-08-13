@@ -1,0 +1,10 @@
+﻿.idea/
+obj/
+bin/
+.vs/
+*.user
+*.suo
+*.rsuser
+*.cache
+*.log
+*.iml
