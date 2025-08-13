@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoMicrosoftCSharp", "CursoMicrosoftCSharp\CursoMicrosoftCSharp.csproj", "{18584296-D437-473A-A05A-C2467AAE2463}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_CursoMicrosoftCSharp", "_CursoMicrosoftCSharp\_CursoMicrosoftCSharp.csproj", "{18584296-D437-473A-A05A-C2467AAE2463}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_ExerciseCondicional", "_ExerciseCondicional\_ExerciseCondicional.csproj", "{AB62C7EC-4945-497E-A952-9974B376E8ED}"
 EndProject
