@@ -14,7 +14,7 @@ int[] studentScores = new int[10];
 string currentStudentLetterGrade = "";
 
 // Write the Report Header to the console
-Console.WriteLine("Student\t\tGrade\n");
+Console.WriteLine("Student\t\tGrade\t\t\n");
 
 foreach (string name in studentNames)
 {
