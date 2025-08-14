@@ -12,6 +12,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_ExerciseMatrizDados", "_Ex
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpressaoBooleana", "ExpressaoBooleana\ExpressaoBooleana.csproj", "{48BEF72D-EBEA-41C2-85A9-6A28F218B8BD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperadorCondicional", "OperadorCondicional\OperadorCondicional.csproj", "{A53D6B6D-95C1-485B-8F42-0D22F7BFD2DC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{48BEF72D-EBEA-41C2-85A9-6A28F218B8BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{48BEF72D-EBEA-41C2-85A9-6A28F218B8BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{48BEF72D-EBEA-41C2-85A9-6A28F218B8BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A53D6B6D-95C1-485B-8F42-0D22F7BFD2DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A53D6B6D-95C1-485B-8F42-0D22F7BFD2DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A53D6B6D-95C1-485B-8F42-0D22F7BFD2DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A53D6B6D-95C1-485B-8F42-0D22F7BFD2DC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
