@@ -18,6 +18,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_exerciseHeadsTails", "_exe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_exerciseAdmin", "_exerciseAdmin\_exerciseAdmin.csproj", "{3686F1EB-1F45-4A71-AD2C-99B4027580F5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_AuxilliaryMethods", "_AuxilliaryMethods\_AuxilliaryMethods.csproj", "{3A5B0C3E-CE0E-4989-AC0A-BC4AB1699FE5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -60,5 +62,9 @@ Global
 		{3686F1EB-1F45-4A71-AD2C-99B4027580F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3686F1EB-1F45-4A71-AD2C-99B4027580F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3686F1EB-1F45-4A71-AD2C-99B4027580F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A5B0C3E-CE0E-4989-AC0A-BC4AB1699FE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A5B0C3E-CE0E-4989-AC0A-BC4AB1699FE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A5B0C3E-CE0E-4989-AC0A-BC4AB1699FE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A5B0C3E-CE0E-4989-AC0A-BC4AB1699FE5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
